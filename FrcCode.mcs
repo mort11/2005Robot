@@ -1,0 +1,146 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=C:\Documents and Settings\Dan\Desktop\Programming\MortCode_05\main.o
+Folder=Intermediary
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_USE_CMU_CAMERA  -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa- -nw=2066
+[File001]
+Location=C:\Documents and Settings\Dan\Desktop\Programming\MortCode_05\user_SerialDrv.o
+Folder=Intermediary
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_USE_CMU_CAMERA  -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa- -nw=2066
+[File002]
+Location=C:\Documents and Settings\Dan\Desktop\Programming\MortCode_05\user_routines.o
+Folder=Intermediary
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_USE_CMU_CAMERA  -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa- -nw=2066
+[File003]
+Location=C:\Documents and Settings\Dan\Desktop\Programming\MortCode_05\user_routines_fast.o
+Folder=Intermediary
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_USE_CMU_CAMERA  -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa- -nw=2066
+[File004]
+Location=C:\Documents and Settings\Dan\Desktop\Programming\MortCode_05\ifi_utilities.o
+Folder=Intermediary
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_USE_CMU_CAMERA  -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa- -nw=2066
+[File005]
+Location=C:\Documents and Settings\Dan\Desktop\Programming\MortCode_05\ifi_startup.o
+Folder=Intermediary
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_USE_CMU_CAMERA  -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa- -nw=2066
+[File006]
+Location=C:\Documents and Settings\Dan\Desktop\Programming\MortCode_05\user_camera.o
+Folder=Intermediary
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_USE_CMU_CAMERA  -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa- -nw=2066
+[File007]
+Location=C:\Documents and Settings\Dan\Desktop\Programming\MortCode_05\Autonomous.o
+Folder=Intermediary
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_USE_CMU_CAMERA  -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa- -nw=2066
+[File008]
+Location=C:\Documents and Settings\Dan\Desktop\Programming\MortCode_05\interrupts.o
+Folder=Intermediary
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\mcc18\bin\mcc18.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=-D_FRC_BOARD -D_USE_CMU_CAMERA  -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa- -nw=2066
+[File009]
+Location=FrcCode.cof
+Folder=Output
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\mcc18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(TARGETBASE).cof"
+[File010]
+Location=FrcCode.cod
+Folder=Output
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\mcc18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(TARGETBASE).cof"
+[File011]
+Location=FrcCode.hex
+Folder=Output
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\mcc18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(TARGETBASE).cof"
+[File012]
+Location=FrcCode.lst
+Folder=Output
+DeviceName=PIC18F8520
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\mcc18\bin\mplink.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)||$(INCDIR)|C:\mcc18\h||$(LIBDIR)|C:\mcc18\lib||$(LKRDIR)||
+SOLK=<src>|main.c|user_SerialDrv.c|user_routines.c|user_routines_fast.c|ifi_utilities.c|ifi_startup.c|user_camera.c|Autonomous.c|interrupts.c||<obj>||<lib>|FRC_library.lib||<lkr>|18f8520user.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(TARGETBASE).cof"
